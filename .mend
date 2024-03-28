@@ -2,5 +2,7 @@
   "settingsInheritedFrom": "pferronMend/whitesource-config@main",
   "scanSettings": {
     "enableReachability": true
-  },
+  }
 }
+
+
