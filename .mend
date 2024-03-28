@@ -1,3 +1,6 @@
 {
-  "settingsInheritedFrom": "pferronMend/whitesource-config@main"
+  "settingsInheritedFrom": "pferronMend/whitesource-config@main",
+  "scanSettings": {
+    "enableReachability": true
+  },
 }
